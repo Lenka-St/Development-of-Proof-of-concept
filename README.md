@@ -4,6 +4,6 @@ Improving Standford dogs data classification with pre-trained SE-Resnet model us
 
 The final models are executed in AWS Sagemaker.
 
-The presentation of this project is described in the pdf file (in French).
+The presentation of this project is available in the pdf file (in French).
 
 
